@@ -18,6 +18,8 @@ All the data treatment, initial training and testing of the netowrk was done usi
 
 ## Usage
 
+!["usage example"](demo.png)
+
 The result of this project is a command line utility that can train a network and later use it to perform predictions.
 
 ### network.py
